@@ -1,0 +1,81 @@
+{
+  "Subject_1": {
+    "2022-03-06": {
+      "1": {
+        "first contractions": [
+          "BF"
+        ]
+      },
+      "2": {
+        "SL prone curls": [
+          "BF",
+          "CI"
+        ]
+      },
+      "3": {
+        "SL prone curls": [
+          "BF",
+          "CI"
+        ]
+      },
+      "4": {
+        "second contractions": [
+          "BF",
+          "AL"
+        ]
+      }
+    },
+    "2022-02-25": {
+      "1": {
+        "first contractions": [
+          "BF"
+        ]
+      },
+      "2": {
+        "SL prone curls": [
+          "BF"
+        ]
+      },
+      "3": {
+        "SL prone curls": [
+          "BF"
+        ]
+      }
+    }
+  },
+  "Subject_2": {
+    "2022-02-25": {
+      "1": {
+        "first contractions": [
+          "X"
+        ]
+      },
+      "2": {
+        "SL prone curls": [
+          "BF",
+          "CI"
+        ]
+      },
+      "3": {
+        "SL prone curls": [
+          "BF",
+          "CI"
+        ]
+      },
+      "4": {
+        "second contractions": [
+          "RL",
+          "AL"
+        ]
+      }
+    },
+    "2022-03-11":
+    {
+      "1": {"first contractions": ["X"]},
+      "2": {"first contractions": ["X"]},
+      "3": {"SL prone curls": ["BF","CI"]},
+      "4": {"SL prone curls": ["BF","CI"]},
+      "5": {"second contractions": ["RF","AL"]}
+    }
+  }
+}

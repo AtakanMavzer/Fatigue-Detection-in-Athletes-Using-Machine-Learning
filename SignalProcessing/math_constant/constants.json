@@ -1,0 +1,11 @@
+{
+  "seconds" : 1.9,
+  "sampen_overlap" : 32,
+  "sampen_frame": 128,
+  "epsilon": 10,
+  "timezone_type": "linear3",
+  "mean_coef": 0.85,
+  "sampen_co1": 3,
+  "sampen_co2": 0.02,
+  "bandLimitDict": { "1" :  [60,90], "2": [180,270], "3": [240,360]}
+}
